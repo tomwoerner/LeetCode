@@ -5,6 +5,9 @@
  */
 
 // @lc code=start
+#include <vector>
+#include <iostream>
+
 class Solution {
 public:
     int findPeakElement(vector<int>& nums) {

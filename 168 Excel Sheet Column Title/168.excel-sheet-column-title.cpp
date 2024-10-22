@@ -5,6 +5,8 @@
  */
 
 // @lc code=start
+#include <string>
+
 class Solution {
 public:
     string convertToTitle(int columnNumber) {

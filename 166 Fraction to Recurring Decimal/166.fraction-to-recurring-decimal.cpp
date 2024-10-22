@@ -5,6 +5,11 @@
  */
 
 // @lc code=start
+#include <unordered_map>
+#include <string>
+#include <cmath>
+#include <iostream> 
+
 class Solution {
 public:
     string fractionToDecimal(int numerator, int denominator) {
