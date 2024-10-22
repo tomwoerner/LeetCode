@@ -5,6 +5,11 @@
  */
 
 // @lc code=start
+#include <vector>
+#include <string>
+#include <sstream>
+#include <iostream>
+
 class Solution {
 public:
     int compareVersion(string version1, string version2) {
